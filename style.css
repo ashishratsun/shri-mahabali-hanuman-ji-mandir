@@ -182,6 +182,17 @@ footer{
 
     margin-top:50px;
 }
+.quote{
+    margin-top:40px;
+    background:linear-gradient(90deg,#ff6a00,#ff9800);
+    color:#fff;
+    padding:25px;
+    border-radius:15px;
+    font-size:22px;
+    text-align:center;
+    font-weight:bold;
+    box-shadow:0 5px 20px rgba(0,0,0,.2);
+}
 
 /* MOBILE */
 
